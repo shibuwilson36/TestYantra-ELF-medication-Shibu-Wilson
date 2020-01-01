@@ -1,0 +1,35 @@
+.mycard{
+    box-shadow: 0 0 10px ;
+}
+.my-btn1{
+    padding: 18px 8px;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    width: 98%;
+    border: none;
+    float: left;
+    background: #ff9f00;
+    color: #fff;
+}
+.my-btn2{
+    padding: 18px 8px;
+    border-radius: 5px;
+    background: #fb641b;
+    width: 98%;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    border: none;
+    color: #fff;
+    
+}
+.my-btn3{
+    
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    border: none;
+    color: black;
+    
+}
+.my-display{
+    position: fixed;
+    top: 80px;
+    left: 13px;
+}
